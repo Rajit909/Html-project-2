@@ -1,6 +1,6 @@
 ![image](https://img.shields.io/badge/project-2-red)
 
-## Project-02  [live Link](https://project-2.netlify.app/)
+## Project-02  [live Link](https://html-project-02.netlify.app)
 
 **Name:** Rajit kumar
 
