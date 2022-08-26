@@ -15,4 +15,4 @@
 
 ![image](https://img.shields.io/badge/Full%20stack%20JS%20bootcamp-Hitesh%20Chaudhary-lightgrey)
 
-![image](https://github.com/Rajit909/Html-project-2/2.png)
+![image](https://github.com/Rajit909/Html-project-2/blob/main/2.png)
